@@ -2,6 +2,8 @@
 
 // Here this pop-up will allow to use a skill or move and then get a breakdown of what that move actually is as an overlay
 
+// The content passes between the parent component is shown in the place of {children} in its child component
+
 import { Children } from 'react'
 import ReactDom from 'react-dom'
 
